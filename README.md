@@ -1,16 +1,19 @@
 ## Hi there 👋
+# Hi, I'm Sreevaishnavi! 👋
 
-<!--
-**sreevaishnavircse2026-coder/sreevaishnavircse2026-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Computer Science and Engineering Student
 
-Here are some ideas to get you started:
+💻 Currently Learning C++
+🤖 Interested in Artificial Intelligence and Technology
+🌱 Improving my programming and problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C++ (Basics)
+- Willingness to Learn
+
+## Goals
+- Learn new programming languages
+- Build useful AI projects
+- Become a successful Software Engineer
+
+Thank you for visiting my profile! 😊
